@@ -1,0 +1,122 @@
+e:\visual studio 2012\Projects\TCCKinect1.0\TCCKinect1.0\bin\Debug\TCCKinect1.0.exe.config
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\bin\Debug\TCCKinect1.0.exe.config
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1.0.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.Properties.Resources.resources
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.FormMain.resources
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1.0.csproj.GenerateResource.Cache
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\bin\Debug\TCCKinect1.0.exe
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\bin\Debug\TCCKinect1.0.pdb
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1.0.exe
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1.0.pdb
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º Período\TCC II\PROJETO_TCC_2013\Produto\TCCKinect1.0\TCCKinect1.0\bin\Debug\TCCKinect1.0.exe.config
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º Período\TCC II\PROJETO_TCC_2013\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1.0.exe
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º Período\TCC II\PROJETO_TCC_2013\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1.0.pdb
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º Período\TCC II\PROJETO_TCC_2013\Produto\TCCKinect1.0\TCCKinect1.0\bin\Debug\TCCKinect1.0.exe
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º Período\TCC II\PROJETO_TCC_2013\Produto\TCCKinect1.0\TCCKinect1.0\bin\Debug\TCCKinect1.0.pdb
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º Período\TCC II\PROJETO_TCC_2013\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1.0.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º Período\TCC II\PROJETO_TCC_2013\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.Properties.Resources.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º Período\TCC II\PROJETO_TCC_2013\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.FormConfiguracoes.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º Período\TCC II\PROJETO_TCC_2013\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.FormMain.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º Período\TCC II\PROJETO_TCC_2013\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1.0.csproj.GenerateResource.Cache
+C:\Users\FábioG\Documents\Visual Studio 2012\Projects\TCC\Produto\TCCKinect1.0\TCCKinect1.0\bin\Debug\TCCKinect1.0.exe.config
+C:\Users\FábioG\Documents\Visual Studio 2012\Projects\TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1.0.exe
+C:\Users\FábioG\Documents\Visual Studio 2012\Projects\TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1.0.pdb
+C:\Users\FábioG\Documents\Visual Studio 2012\Projects\TCC\Produto\TCCKinect1.0\TCCKinect1.0\bin\Debug\TCCKinect1.0.exe
+C:\Users\FábioG\Documents\Visual Studio 2012\Projects\TCC\Produto\TCCKinect1.0\TCCKinect1.0\bin\Debug\TCCKinect1.0.pdb
+C:\Users\FábioG\Documents\Visual Studio 2012\Projects\TCC\Produto\TCCKinect1.0\TCCKinect1.0\bin\Debug\MySql.Data.dll
+C:\Users\FábioG\Documents\Visual Studio 2012\Projects\TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.Properties.Resources.resources
+C:\Users\FábioG\Documents\Visual Studio 2012\Projects\TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.FormConfiguracoes.resources
+C:\Users\FábioG\Documents\Visual Studio 2012\Projects\TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.FormMain.resources
+C:\Users\FábioG\Documents\Visual Studio 2012\Projects\TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1.0.csproj.GenerateResource.Cache
+C:\Users\FábioG\Documents\Visual Studio 2012\Projects\TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.cadastrosBase.FormCadastroBase.resources
+C:\Users\FábioG\Documents\Visual Studio 2012\Projects\TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1.0.csprojResolveAssemblyReference.cache
+C:\Users\FábioG\Documents\Visual Studio 2012\Projects\TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.cadastrosBase.FormBase.resources
+C:\Users\FábioG\Documents\Visual Studio 2012\Projects\TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.FormClinica.resources
+C:\Users\FábioG\Documents\Visual Studio 2012\Projects\TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.FormClinicaCadastro.resources
+C:\Users\FábioG\Documents\Visual Studio 2012\Projects\TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.fisioterapeuta.FormFisioterapeutaCadastro.resources
+C:\Users\FábioG\Documents\Visual Studio 2012\Projects\TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.fisioterapeuta.FormFisiotarapeuta.resources
+C:\Users\FábioG\Documents\Visual Studio 2012\Projects\TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.fichaDeAvaliacao.FormFichaDeAvaliacao.resources
+C:\Users\FábioG\Documents\Visual Studio 2012\Projects\TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.fichaDeAvaliacao.FormFichaDeAvaliacaoCadastro.resources
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.cadastrosBase.FormBase.resources
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.cadastrosBase.FormCadastroBase.resources
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.fichaDeAvaliacao.FormFichaDeAvaliacao.resources
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.fichaDeAvaliacao.FormFichaDeAvaliacaoCadastro.resources
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.fisioterapeuta.FormFisiotarapeuta.resources
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.fisioterapeuta.FormFisioterapeutaCadastro.resources
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.FormClinica.resources
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.FormClinicaCadastro.resources
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.FormConfiguracoes.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROJETO_TCC_II\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.Properties.Resources.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROJETO_TCC_II\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.cadastrosBase.FormBase.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROJETO_TCC_II\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.cadastrosBase.FormCadastroBase.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROJETO_TCC_II\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.fichaDeAvaliacao.FormFichaDeAvaliacao.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROJETO_TCC_II\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.fichaDeAvaliacao.FormFichaDeAvaliacaoCadastro.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROJETO_TCC_II\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.fisioterapeuta.FormFisiotarapeuta.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROJETO_TCC_II\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.fisioterapeuta.FormFisioterapeutaCadastro.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROJETO_TCC_II\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.FormClinica.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROJETO_TCC_II\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.FormClinicaCadastro.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROJETO_TCC_II\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.FormConfiguracoes.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROJETO_TCC_II\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.FormMain.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROJETO_TCC_II\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.paciente.FormPaciente.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROJETO_TCC_II\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1.0.csproj.GenerateResource.Cache
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROJETO_TCC_II\Produto\TCCKinect1.0\TCCKinect1.0\bin\Debug\TCCKinect1.0.exe.config
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROJETO_TCC_II\Produto\TCCKinect1.0\TCCKinect1.0\bin\Debug\TCCKinect1.0.exe
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROJETO_TCC_II\Produto\TCCKinect1.0\TCCKinect1.0\bin\Debug\TCCKinect1.0.pdb
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROJETO_TCC_II\Produto\TCCKinect1.0\TCCKinect1.0\bin\Debug\MySql.Data.dll
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROJETO_TCC_II\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1.0.exe
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROJETO_TCC_II\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1.0.pdb
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROJETO_TCC_II\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.paciente.FormPacienteCadastro.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROJETO_TCC_II\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1.0.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\bin\Debug\DatabaseModel.sdf
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.paciente.FormPaciente.resources
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.paciente.FormPacienteCadastro.resources
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.relatorio.FormGrafico.resources
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.relatorio.FormRelatorioGrafico.resources
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\RdlCompile.cache
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\RdlCompile.compiled
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROJETO_TCC_II\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.sessoes.FormSessoes.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROJETO_TCC_II\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.sessoes.FormSessaoCadastrar.resources
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.sessoes.FormSessaoCadastrar.resources
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.sessoes.FormSessoes.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROJETO_TCC_II\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.FormClinicaCadastroInicial.resources
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.FormClinicaCadastroInicial.resources
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\bin\Debug\TCCKinect1.0.exe.manifest
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\bin\Debug\TCCKinect1.0.application
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1.0.TrustInfo.xml
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1.0.exe.manifest
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1.0.application
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\bin\Debug\DatabaseModel.sdf
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\bin\Debug\TCCKinect1.0.exe.config
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\bin\Debug\TCCKinect1.0.exe.manifest
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\bin\Debug\TCCKinect1.0.application
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\bin\Debug\TCCKinect1.0.exe
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\bin\Debug\TCCKinect1.0.pdb
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\bin\Debug\MySql.Data.dll
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.Properties.Resources.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.cadastrosBase.FormBase.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.cadastrosBase.FormCadastroBase.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.fichaDeAvaliacao.FormFichaDeAvaliacao.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.fichaDeAvaliacao.FormFichaDeAvaliacaoCadastro.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.fisioterapeuta.FormFisiotarapeuta.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.fisioterapeuta.FormFisioterapeutaCadastro.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.FormClinicaCadastroInicial.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.FormClinica.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.FormClinicaCadastro.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.FormConfiguracoes.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.FormMain.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.paciente.FormPaciente.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.paciente.FormPacienteCadastro.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.relatorio.FormGrafico.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.relatorio.FormRelatorioGrafico.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.sessoes.FormSessaoCadastrar.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1._0.visao.sessoes.FormSessoes.resources
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1.0.csproj.GenerateResource.Cache
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\RdlCompile.cache
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\RdlCompile.compiled
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1.0.TrustInfo.xml
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1.0.exe.manifest
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1.0.application
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1.0.exe
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1.0.pdb
+C:\Users\Samuel\Desktop\Sistemas de Informação 8º  Período\TCC II\PROGRAMA_TCC\Produto\TCCKinect1.0\TCCKinect1.0\obj\Debug\TCCKinect1.0.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2012\Projects\Kinect2013TCC\Produto\TCCKinect1.0\TCCKinect1.0\bin\Debug\MySql.Data.dll

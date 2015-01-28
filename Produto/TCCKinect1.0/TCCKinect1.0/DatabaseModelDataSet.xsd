@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DatabaseModelDataSet" targetNamespace="http://tempuri.org/DatabaseModelDataSet.xsd" xmlns:mstns="http://tempuri.org/DatabaseModelDataSet.xsd" xmlns="http://tempuri.org/DatabaseModelDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="DatabaseModelConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="DatabaseModelConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.TCCKinect1._0.Properties.Settings.GlobalReference.Default.DatabaseModelConnectionString" Provider="Microsoft.SqlServerCe.Client.4.0" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="membro1TableAdapter" GeneratorDataComponentClassName="membro1TableAdapter" Name="membro1" UserDataComponentName="membro1TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="DatabaseModelConnectionString (Settings)" DbObjectName="membro1" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        x, y, z, angulo, tempo
+FROM            membro1</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="x" DataSetColumn="x" />
+              <Mapping SourceColumn="y" DataSetColumn="y" />
+              <Mapping SourceColumn="z" DataSetColumn="z" />
+              <Mapping SourceColumn="angulo" DataSetColumn="angulo" />
+              <Mapping SourceColumn="tempo" DataSetColumn="tempo" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="membro2TableAdapter" GeneratorDataComponentClassName="membro2TableAdapter" Name="membro2" UserDataComponentName="membro2TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="DatabaseModelConnectionString (Settings)" DbObjectName="membro2" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        x, y, z, angulo, tempo
+FROM            membro2</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="x" DataSetColumn="x" />
+              <Mapping SourceColumn="y" DataSetColumn="y" />
+              <Mapping SourceColumn="z" DataSetColumn="z" />
+              <Mapping SourceColumn="angulo" DataSetColumn="angulo" />
+              <Mapping SourceColumn="tempo" DataSetColumn="tempo" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="membro3TableAdapter" GeneratorDataComponentClassName="membro3TableAdapter" Name="membro3" UserDataComponentName="membro3TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="DatabaseModelConnectionString (Settings)" DbObjectName="membro3" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        x, y, z, angulo, tempo
+FROM            membro3</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="x" DataSetColumn="x" />
+              <Mapping SourceColumn="y" DataSetColumn="y" />
+              <Mapping SourceColumn="z" DataSetColumn="z" />
+              <Mapping SourceColumn="angulo" DataSetColumn="angulo" />
+              <Mapping SourceColumn="tempo" DataSetColumn="tempo" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="corpoTableAdapter" GeneratorDataComponentClassName="corpoTableAdapter" Name="corpo" UserDataComponentName="corpoTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="DatabaseModelConnectionString (Settings)" DbObjectName="corpo" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT x, y, z, tempo FROM corpo</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="x" DataSetColumn="x" />
+              <Mapping SourceColumn="y" DataSetColumn="y" />
+              <Mapping SourceColumn="z" DataSetColumn="z" />
+              <Mapping SourceColumn="tempo" DataSetColumn="tempo" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DatabaseModelDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="DatabaseModelDataSet" msprop:Generator_UserDSName="DatabaseModelDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="membro1" msprop:Generator_TableClassName="membro1DataTable" msprop:Generator_TableVarName="tablemembro1" msprop:Generator_RowChangedName="membro1RowChanged" msprop:Generator_TablePropName="membro1" msprop:Generator_RowDeletingName="membro1RowDeleting" msprop:Generator_RowChangingName="membro1RowChanging" msprop:Generator_RowEvHandlerName="membro1RowChangeEventHandler" msprop:Generator_RowDeletedName="membro1RowDeleted" msprop:Generator_RowClassName="membro1Row" msprop:Generator_UserTableName="membro1" msprop:Generator_RowEvArgName="membro1RowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="x" msprop:Generator_ColumnVarNameInTable="columnx" msprop:Generator_ColumnPropNameInRow="x" msprop:Generator_ColumnPropNameInTable="xColumn" msprop:Generator_UserColumnName="x" type="xs:decimal" minOccurs="0" />
+              <xs:element name="y" msprop:Generator_ColumnVarNameInTable="columny" msprop:Generator_ColumnPropNameInRow="y" msprop:Generator_ColumnPropNameInTable="yColumn" msprop:Generator_UserColumnName="y" type="xs:decimal" minOccurs="0" />
+              <xs:element name="z" msprop:Generator_ColumnVarNameInTable="columnz" msprop:Generator_ColumnPropNameInRow="z" msprop:Generator_ColumnPropNameInTable="zColumn" msprop:Generator_UserColumnName="z" type="xs:decimal" minOccurs="0" />
+              <xs:element name="angulo" msprop:Generator_ColumnVarNameInTable="columnangulo" msprop:Generator_ColumnPropNameInRow="angulo" msprop:Generator_ColumnPropNameInTable="anguloColumn" msprop:Generator_UserColumnName="angulo" type="xs:decimal" minOccurs="0" />
+              <xs:element name="tempo" msprop:Generator_ColumnVarNameInTable="columntempo" msprop:Generator_ColumnPropNameInRow="tempo" msprop:Generator_ColumnPropNameInTable="tempoColumn" msprop:Generator_UserColumnName="tempo" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="membro2" msprop:Generator_TableClassName="membro2DataTable" msprop:Generator_TableVarName="tablemembro2" msprop:Generator_RowChangedName="membro2RowChanged" msprop:Generator_TablePropName="membro2" msprop:Generator_RowDeletingName="membro2RowDeleting" msprop:Generator_RowChangingName="membro2RowChanging" msprop:Generator_RowEvHandlerName="membro2RowChangeEventHandler" msprop:Generator_RowDeletedName="membro2RowDeleted" msprop:Generator_RowClassName="membro2Row" msprop:Generator_UserTableName="membro2" msprop:Generator_RowEvArgName="membro2RowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="x" msprop:Generator_ColumnVarNameInTable="columnx" msprop:Generator_ColumnPropNameInRow="x" msprop:Generator_ColumnPropNameInTable="xColumn" msprop:Generator_UserColumnName="x" type="xs:decimal" minOccurs="0" />
+              <xs:element name="y" msprop:Generator_ColumnVarNameInTable="columny" msprop:Generator_ColumnPropNameInRow="y" msprop:Generator_ColumnPropNameInTable="yColumn" msprop:Generator_UserColumnName="y" type="xs:decimal" minOccurs="0" />
+              <xs:element name="z" msprop:Generator_ColumnVarNameInTable="columnz" msprop:Generator_ColumnPropNameInRow="z" msprop:Generator_ColumnPropNameInTable="zColumn" msprop:Generator_UserColumnName="z" type="xs:decimal" minOccurs="0" />
+              <xs:element name="angulo" msprop:Generator_ColumnVarNameInTable="columnangulo" msprop:Generator_ColumnPropNameInRow="angulo" msprop:Generator_ColumnPropNameInTable="anguloColumn" msprop:Generator_UserColumnName="angulo" type="xs:decimal" minOccurs="0" />
+              <xs:element name="tempo" msprop:Generator_ColumnVarNameInTable="columntempo" msprop:Generator_ColumnPropNameInRow="tempo" msprop:Generator_ColumnPropNameInTable="tempoColumn" msprop:Generator_UserColumnName="tempo" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="membro3" msprop:Generator_TableClassName="membro3DataTable" msprop:Generator_TableVarName="tablemembro3" msprop:Generator_RowChangedName="membro3RowChanged" msprop:Generator_TablePropName="membro3" msprop:Generator_RowDeletingName="membro3RowDeleting" msprop:Generator_RowChangingName="membro3RowChanging" msprop:Generator_RowEvHandlerName="membro3RowChangeEventHandler" msprop:Generator_RowDeletedName="membro3RowDeleted" msprop:Generator_RowClassName="membro3Row" msprop:Generator_UserTableName="membro3" msprop:Generator_RowEvArgName="membro3RowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="x" msprop:Generator_ColumnVarNameInTable="columnx" msprop:Generator_ColumnPropNameInRow="x" msprop:Generator_ColumnPropNameInTable="xColumn" msprop:Generator_UserColumnName="x" type="xs:decimal" minOccurs="0" />
+              <xs:element name="y" msprop:Generator_ColumnVarNameInTable="columny" msprop:Generator_ColumnPropNameInRow="y" msprop:Generator_ColumnPropNameInTable="yColumn" msprop:Generator_UserColumnName="y" type="xs:decimal" minOccurs="0" />
+              <xs:element name="z" msprop:Generator_ColumnVarNameInTable="columnz" msprop:Generator_ColumnPropNameInRow="z" msprop:Generator_ColumnPropNameInTable="zColumn" msprop:Generator_UserColumnName="z" type="xs:decimal" minOccurs="0" />
+              <xs:element name="angulo" msprop:Generator_ColumnVarNameInTable="columnangulo" msprop:Generator_ColumnPropNameInRow="angulo" msprop:Generator_ColumnPropNameInTable="anguloColumn" msprop:Generator_UserColumnName="angulo" type="xs:decimal" minOccurs="0" />
+              <xs:element name="tempo" msprop:Generator_ColumnVarNameInTable="columntempo" msprop:Generator_ColumnPropNameInRow="tempo" msprop:Generator_ColumnPropNameInTable="tempoColumn" msprop:Generator_UserColumnName="tempo" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="corpo" msprop:Generator_TableClassName="corpoDataTable" msprop:Generator_TableVarName="tablecorpo" msprop:Generator_TablePropName="corpo" msprop:Generator_RowDeletingName="corpoRowDeleting" msprop:Generator_RowChangingName="corpoRowChanging" msprop:Generator_RowEvHandlerName="corpoRowChangeEventHandler" msprop:Generator_RowDeletedName="corpoRowDeleted" msprop:Generator_UserTableName="corpo" msprop:Generator_RowChangedName="corpoRowChanged" msprop:Generator_RowEvArgName="corpoRowChangeEvent" msprop:Generator_RowClassName="corpoRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="x" msprop:Generator_ColumnVarNameInTable="columnx" msprop:Generator_ColumnPropNameInRow="x" msprop:Generator_ColumnPropNameInTable="xColumn" msprop:Generator_UserColumnName="x" type="xs:decimal" minOccurs="0" />
+              <xs:element name="y" msprop:Generator_ColumnVarNameInTable="columny" msprop:Generator_ColumnPropNameInRow="y" msprop:Generator_ColumnPropNameInTable="yColumn" msprop:Generator_UserColumnName="y" type="xs:decimal" minOccurs="0" />
+              <xs:element name="z" msprop:Generator_ColumnVarNameInTable="columnz" msprop:Generator_ColumnPropNameInRow="z" msprop:Generator_ColumnPropNameInTable="zColumn" msprop:Generator_UserColumnName="z" type="xs:decimal" minOccurs="0" />
+              <xs:element name="tempo" msprop:Generator_ColumnVarNameInTable="columntempo" msprop:Generator_ColumnPropNameInRow="tempo" msprop:Generator_ColumnPropNameInTable="tempoColumn" msprop:Generator_UserColumnName="tempo" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
